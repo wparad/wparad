@@ -1,9 +1,11 @@
 ## Hey there, I'm Warren
 
-### I'm an Engineer, Entrepreneur, and Co-Found of Rhosys!
+### I'm an Engineer, Entrepreneur, and Co-Founder of Rhosys!
 - 🔭 I'm currently working on Authress with the Rhosys team. It's all about SaaS security, [check it out!](https://authress.io)
 - 🌱 Building the next best open source API Documentation tool for any api: [OpenAPI Explorer](https://github.com/Rhosys/openapi-explorer)
 - 👯 I'm looking to collaborate on interesting projects, mentor, or give feedback. Comee open minded and with questions!
+- 📚 I frequently consult and provide Fractional CTO and tech leadership services. Always looking for a great team to help out.
+- 🌿 The environment is important to me.
 - ⚡ Fun fact, I can ~~argue~~ discuss about almost anything, try me :).
 
 ### Connect with me:
