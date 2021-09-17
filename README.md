@@ -1,12 +1,17 @@
 ## Hey there, I'm Warren
 
 ### I'm an Engineer, Entrepreneur, and Co-Founder of Rhosys!
-- 🔭 I'm currently working on Authress with the Rhosys team. It's all about SaaS security, [check it out!](https://authress.io)
+- 🔭 I'm currently working on Authress with the [Rhosys team](https://rhosys.ch). It's all about SaaS security, IAM, and authorization, [check it out!](https://authress.io)
 - 🌱 Building the next best open source API Documentation tool for any api: [OpenAPI Explorer](https://github.com/Rhosys/openapi-explorer)
-- 👯 I'm looking to collaborate on interesting projects, mentor, or give feedback. Comee open minded and with questions!
+- 👯 I'm looking to collaborate on interesting projects, mentor, or give feedback. Come open minded and with questions!
 - 📚 I frequently consult and provide Fractional CTO and tech leadership services. Always looking for a great team to help out.
 - 🌿 The environment is important to me.
 - ⚡ Fun fact, I can ~~argue~~ discuss about almost anything, try me :).
+
+### My communities
+I activitely write and contribute to tech communities, you can see some of my public writings:
+* [Dev.to](https://dev.to/wparad)
+* [Medium](https://wparad.medium.com)
 
 ### Connect with me:
 <img align="center" alt="Warren#4143" width="22px" src="https://discord.com/assets/9f6f9cd156ce35e2d94c0e62e3eff462.png" /> <a href="https://discord.gg/QWkQDKJbxw">Warren#4143</a>
