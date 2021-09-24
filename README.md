@@ -14,7 +14,8 @@ I activitely write and contribute to tech communities, you can see some of my pu
 * [Medium](https://wparad.medium.com)
 
 ### Connect with me:
-<img align="center" alt="Warren#4143" width="22px" src="https://discord.com/assets/9f6f9cd156ce35e2d94c0e62e3eff462.png" /> <a href="https://discord.gg/QWkQDKJbxw">Warren#4143</a>
+* <a href="https://rhosys.ch/community"><img align="center" alt="Security Slack community" width="40px" src="https://cdn.brandfolder.io/5H442O3W/at/pl546j-7le8zk-6gwiyo/Slack_Mark.svg" />Rhosys Security Community</a>
+* &nbsp;&nbsp;<a href="https://discord.gg/QWkQDKJbxw"><img align="center" alt="Warren#4143" width="22px" src="https://discord.com/assets/9f6f9cd156ce35e2d94c0e62e3eff462.png" />&nbsp;&nbsp;Warren#4143 @Discord</a>
 
 ### Languages and Tools:
 - <img alt="Node.js" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> Node.js
