@@ -14,7 +14,7 @@ I activitely write and contribute to tech communities, you can see some of my pu
 * [Medium](https://wparad.medium.com)
 
 ### Connect with me in:
-* <a href="https://rhosys.ch/community"><img align="center" alt="Security Slack community" width="40px" src="https://cdn.brandfolder.io/5H442O3W/at/pl546j-7le8zk-6gwiyo/Slack_Mark.svg" />+ <a href="https://rhosys.ch/community"><img align="center" alt="Security Slack community" width="22px" src="https://authress.io/app/img/logo.png" />&nbsp;&nbsp; Rhosys Security Community</a>
+* <a href="https://rhosys.ch/community"><img align="center" alt="Security Slack community" width="40px" src="https://cdn.brandfolder.io/5H442O3W/at/pl546j-7le8zk-6gwiyo/Slack_Mark.svg" />+&nbsp;&nbsp;<a href="https://rhosys.ch/community"><img align="center" alt="Security Slack community" width="22px" src="https://authress.io/app/img/logo.png" />&nbsp; Rhosys Security Community</a>
 * &nbsp;&nbsp;<a href="https://discord.gg/3CYA5Myqty"><img align="center" alt="Warren#4143" width="22px" src="https://discord.com/assets/9f6f9cd156ce35e2d94c0e62e3eff462.png">&nbsp;&nbsp;+&nbsp; <img align="center" width="22px" src="https://user-images.githubusercontent.com/5056218/143927895-4b30bd0d-2ee2-42db-9617-d908c673eacc.jpg">&nbsp; AWS Discord Server</a>
 
 ### Languages and Tools:
