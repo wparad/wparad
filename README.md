@@ -7,6 +7,7 @@
 - 📚 I frequently consult and provide [Fractional CTO](https://rhosys.ch) and tech leadership services. Always looking for a great team to help out.
 - 🌿 The environment is important to me.
 - ⚡ Fun fact, I can ~~argue~~ discuss about almost anything, try me :).
+- 🛡 Or checkout my [knowledge base of interesting things](https://github.com/wparad/wparad/wiki).
 
 ### My communities
 I activitely write and contribute to tech communities, you can see some of my public writings:
