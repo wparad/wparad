@@ -26,7 +26,9 @@ I activitely write and contribute to tech communities, you can see some of my pu
   ![](https://komarev.com/ghpvc/?username=wparad) -->
   
 ---
+<div style="display: flex">
   <summary>:zap: Github Stats</summary>
 
   <img align="center" alt="Xenfo's Github Stats" src="https://github-readme-stats.xenfo.vercel.app/api?username=wparad&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&text_color=ffffff" />
   <img align="center" alt="Xenfo's Top Languages" src="https://github-readme-stats.xenfo.vercel.app/api/top-langs/?username=wparad&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff" />
+</div>
