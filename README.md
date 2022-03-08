@@ -22,6 +22,8 @@ I activitely write and contribute to tech communities, you can see some of my pu
 ### Languages and Tools:
 - <img alt="Node.js" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> Node.js
 
+![](https://komarev.com/ghpvc/?username=wparad)
+  
 ---
 
 <details>
