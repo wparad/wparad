@@ -8,7 +8,7 @@
 - 🌿 The environment is important to me.
 - ⚡ Fun fact, I can ~~argue~~ discuss about almost anything, try me :).
 - 🛡 Here's my [knowledge base of interesting things](https://github.com/wparad/wparad/wiki).
-- 🍜 Oh, and sometimes I cook things, take a look at [recipes from my kitchen](https://warrensrecipes.wordpress.com/)
+- 🍜 Oh, and sometimes I cook things, take a look at [recipes from my kitchen](https://warrensrecipes.wordpress.com/).
 
 ### My communities
 I activitely write and contribute to tech communities, you can see some of my public writings:
