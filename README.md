@@ -1,7 +1,7 @@
 ## Hey there, I'm Warren
 
-### I'm an Engineer, Entrepreneur, and Co-Founder of Rhosys!
-- 🔭 I'm currently working on Authress with the [Rhosys team](https://rhosys.ch). Heard of Auth0, Cognito, or something else, [Authress is so much better!](https://authress.io)
+### I'm an Engineer, Leader, Entrepreneur, and Co-Founder of Rhosys!
+- 🔭 I'm currently working on Authress with the [Rhosys team](https://rhosys.ch). Ever heard of Auth0, Cognito, or Firebase, [Authress is so much better!](https://authress.io)
 - 🌱 Building the next best open source API Documentation tool for any api: [OpenAPI Explorer](https://github.com/Rhosys/openapi-explorer)
 - 👯 I'm looking to collaborate on interesting projects, mentor, or give feedback. Come open minded and with questions!
 - 📚 I frequently consult and provide [Fractional CTO](https://rhosys.ch) and tech leadership services. Always looking for a great team to help out.
