@@ -10,6 +10,10 @@
 - 🛡 Here's my [knowledge base of interesting things](https://github.com/wparad/wparad/wiki).
 - 🍜 Oh, and sometimes I cook things, take a look at [recipes from my kitchen](https://warrensrecipes.wordpress.com/).
 
+### Conference talks and podcasts
+* [Adding security to your architecture one step at a time](https://www.youtube.com/watch?v=mgmylBHSH-g)
+* [The Challenges of Open Source](https://topenddevs.com/podcasts/adventures-in-devops/episodes/open-source-software-its-maintainability-with-warren-parad-devops-147) - [alt](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5yZWRjaXJjbGUuY29tLzExMGEyZGU4LTQ3ODAtNDNkMC04YjJkLTNjOTljMDRkZjgwOQ/episode/OTFiMjAyNDAtZTFmNy00NzU4LWIzNTYtN2QwZjMzYWQ3M2Rh)
+
 ### My communities
 I activitely write and contribute to tech communities, you can see some of my public writings:
 * [Dev.to](https://dev.to/wparad)
