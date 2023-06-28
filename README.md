@@ -23,17 +23,17 @@ I activitely write and contribute to tech communities, you can see some of my pu
 * <img align="center" alt="Rhosys Security community" width="22px" src="https://authress.io/app/img/logo.png" />&nbsp; <a href="https://rhosys.ch/community">Rhosys Security Community</a>
 * <img align="center" alt="Warren#4143" width="22px" src="https://discord.com/assets/9f6f9cd156ce35e2d94c0e62e3eff462.png">&nbsp; <a href="https://discordapp.com/users/401675887927623692">Warren#8080 @Discord</a>
 
-<!-- ### Languages and Tools:
-- <img alt="Node.js" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> Node.js -->
-
-<!-- Profile Counter (bi-weekly reset)
-  ![](https://komarev.com/ghpvc/?username=wparad) -->
-  
 ---
-<div style="display: flex">
-  <summary>:zap: Github Stats</summary>
+<!-- Source: https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969 -->
 
-  <img align="center" alt="Warren's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wparad&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" />
-  <img align="center" alt="Warren's Commit Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wparad&hide_border=true&background=161320&currStreakNum=D9E0EE&sideNums=D9E0EE&currStreakLabel=96CDFB&sideLabels=D9E0EE&ring=96CDFB&fire=96CDFB&dates=988BA2" />
-  <img align="center" alt="Warren's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wparad&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" />
+<div style="display: flex">
+
+  <!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+  ![Warren's GitHub stats](https://github-readme-stats.vercel.app/api?username=wparad&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox)
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wparad)](https://git.io/streak-stats)
+  
+
+  ![Warren's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wparad&layout=donut&size_weight=0.5&count_weight=0.5&hide=html,java,ruby)
+  
 </div>
