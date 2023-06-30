@@ -28,12 +28,16 @@ I activitely write and contribute to tech communities, you can see some of my pu
 
 <div style="display: flex">
 
+  <p align="center" style="display: flex; justify-content: around"> 
   <!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-  ![Warren's GitHub stats](https://github-readme-stats.vercel.app/api?username=wparad&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox)
+    <img alt="Warren's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wparad&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox">
+    <img alt="Warren's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wparad&theme=gruvbox">
+  </p>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wparad)](https://git.io/streak-stats)
-  
+  <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-  ![Warren's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wparad&layout=donut&size_weight=0.5&count_weight=0.5&hide=html,java,ruby)
+  <p align="center">
+    <img alt="Warren's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wparad&layout=donut&size_weight=0.5&count_weight=0.5&hide=html,java,ruby&theme=gruvbox">
+  </p>
   
 </div>
