@@ -18,6 +18,7 @@
 I activitely write and contribute to tech communities, you can see some of my public writings:
 * [Dev.to](https://dev.to/wparad)
 * [Medium](https://wparad.medium.com)
+* <a rel="nofollow me" href="https://infosec.exchange/@wparad">Twitter/Mastodon</a>
 
 ### Connect with me in:
 * <img align="center" alt="Rhosys Security community" width="22px" src="https://authress.io/app/img/logo.png" />&nbsp; <a href="https://rhosys.ch/community">Rhosys Security Community</a>
