@@ -11,8 +11,10 @@
 - 🍜 Oh, and sometimes I cook things, take a look at [recipes from my kitchen](https://warrensrecipes.wordpress.com/).
 
 ### Conference talks and podcasts
-* [Adding security to your architecture one step at a time](https://www.youtube.com/watch?v=mgmylBHSH-g)
-* [The Challenges of Open Source](https://topenddevs.com/podcasts/adventures-in-devops/episodes/open-source-software-its-maintainability-with-warren-parad-devops-147) - [alt](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5yZWRjaXJjbGUuY29tLzExMGEyZGU4LTQ3ODAtNDNkMC04YjJkLTNjOTljMDRkZjgwOQ/episode/OTFiMjAyNDAtZTFmNy00NzU4LWIzNTYtN2QwZjMzYWQ3M2Rh)
+I'm the host on The Adventures in DevOps podcast, if you want to join the show or have a topic you'd like to recommend come join the community and talk about it.
+<a rel="nofollow me" href="https://discord.gg/qxYBfsVx99">Adventures in DevOps Podcast</a>
+
+For all of my public conference talks and appearences, which are too many to list here, check out my [Speaker Profile](https://warrenparad.net/#speaker)
 
 ### My communities
 I activitely write and contribute to tech communities, you can see some of my public writings:
