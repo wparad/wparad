@@ -1,6 +1,6 @@
 ## Hey there, I'm Warren
 
-### I'm an Engineer, Leader, Entrepreneur, Fractional CTO, and Co-Founder of Rhosys!
+### I'm an Engineer, Leader, Entrepreneur, Fractional CTO, and Co-Founder of Authress!
 - 📚 I frequently consult and provide [Fractional CTO](https://warrenparad.net) and tech leadership services. Always looking for a great team to help out.
 - 🔭 I'm currently working on Authress with the [Rhosys team](https://rhosys.ch). Ever heard of Auth0, Cognito, or Firebase, [Authress is so much better!](https://authress.io)
 - 🌱 Building the next best open source API Documentation tool for any api: [OpenAPI Explorer](https://github.com/Rhosys/openapi-explorer)
@@ -17,7 +17,6 @@
 ### My communities
 I activitely write and contribute to tech communities, you can see some of my public writings:
 * [Dev.to](https://dev.to/wparad)
-* [Medium](https://wparad.medium.com)
 * <a rel="nofollow me" href="https://infosec.exchange/@wparad">Twitter/Mastodon</a>
 
 ### Connect with me in:
