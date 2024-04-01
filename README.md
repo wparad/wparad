@@ -13,7 +13,7 @@
 ### Conference talks and podcasts
 I'm the host on The Adventures in DevOps podcast, if you want to join the show or have a topic you'd like to recommend come join the community and talk about it.
 
-Join => <a rel="nofollow me" href="https://discord.gg/qxYBfsVx99">Adventures in DevOps Podcast</a>
+Join => <a rel="nofollow me" href="https://rhosys.ch/community">Adventures in DevOps Podcast</a>
 
 For all of my public conference talks and appearences, which are too many to list here, check out my [Speaker Profile](https://warrenparad.net/#speaker)
 
