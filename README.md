@@ -26,13 +26,13 @@ I activitely write and contribute to tech communities, you can see some of my pu
 * <img align="center" alt="Authress Security community" width="22px" src="https://authress.io/app/img/logo.png" />&nbsp; <a href="https://authress.io/community">Authress Security Community</a>
 * <img align="center" alt="Warren#4143" width="22px" src="https://discord.com/assets/9f6f9cd156ce35e2d94c0e62e3eff462.png">&nbsp; <a href="https://rhosys.ch/community">Warren#8080 @Discord</a>
 
----
 <!-- Source: https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969 -->
-
+<!--
+---
 <div style="display: flex">
 
   <p align="center" style="display: flex; justify-content: around"> 
-  <!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+  <Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md>
     <img alt="Warren's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wparad&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox">
     <img alt="Warren's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wparad&theme=gruvbox">
   </p>
@@ -44,3 +44,5 @@ I activitely write and contribute to tech communities, you can see some of my pu
   </p>
   
 </div>
+
+-->
