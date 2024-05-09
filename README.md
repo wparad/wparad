@@ -1,6 +1,6 @@
 ## Hey there, I'm Warren
 
-### I'm an Engineer, Leader, Entrepreneur, Fractional CTO, and Co-Founder of Authress!
+### I'm an Engineering Leader, Entrepreneur, Fractional CTO, AWS Community Builder, and Co-Founder of Authress!
 - 📚 I frequently consult and provide [Fractional CTO](https://warrenparad.net) and tech leadership services. Always looking for a great team to help out.
 - 🔭 I'm currently working on Authress with the [Rhosys team](https://rhosys.ch). Ever heard of Auth0, Cognito, or Firebase, [Authress is so much better!](https://authress.io)
 - 🌱 Building the next best open source API Documentation tool for any api: [OpenAPI Explorer](https://github.com/Rhosys/openapi-explorer)
