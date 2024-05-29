@@ -7,7 +7,7 @@
 - 👯 I'm looking to collaborate on interesting projects, mentor, or give feedback. Come open minded and with questions!
 - 🌿 The environment is important to me.
 - ⚡ Fun fact, I can ~~argue~~ discuss about almost anything, try me :).
-- 🛡 Here's my [knowledge base of interesting things](https://github.com/wparad/wparad/wiki).
+- 🛡 Here's my [knowledge base of interesting things](https://github.com/wparad/wparad/wiki) and my [Recommended reading list](https://github.com/wparad/reading-list/blob/main/README.md)
 - 🍜 Oh, and sometimes I cook things, take a look at [recipes from my kitchen](https://warrensrecipes.wordpress.com/).
 
 ### Conference talks and podcasts
