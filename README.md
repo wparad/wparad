@@ -20,7 +20,8 @@ For all of my public conference talks and appearences, which are too many to lis
 ### My communities
 I activitely write and contribute to tech communities, you can see some of my public writings:
 * [Dev.to](https://dev.to/wparad)
-* <a rel="nofollow me" href="https://infosec.exchange/@wparad">Twitter/Mastodon</a>
+* <a rel="nofollow me" href="https://infosec.exchange/@wparad">Mastodon</a>
+* <a rel="nofollow me" href="https://bsky.app/profile/wparad.bsky.social">Bluesky</a>
 
 ### Connect with me in:
 * <img align="center" alt="Authress Security community" width="22px" src="https://authress.io/app/img/logo.png" />&nbsp; <a href="https://authress.io/community">Authress Security Community</a>
